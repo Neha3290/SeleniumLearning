@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="FunctionalTest">
+	<test verbose ="2" name="Functional Test">
+		<classes>
+			<class name="BatchTesting.PaymentInfo" />
+			<class name="BatchTesting.TransactionInfo" />
+		</classes>
+	</test>
+</suite>
+

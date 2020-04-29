@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name= "MasterTestSuite" parallel="false">
+	
+	<listeners>
+		<listener class-name="BatchTesting.Listeners" />
+	</listeners>
+
+	<suite-files>
+		<suite-file path="C:\Users\Spraynt\eclipse-workspace\Selenium\bin\BatchTesting\RegistrationTestSuite.xml"/>
+		<suite-file path="C:\Users\Spraynt\eclipse-workspace\Selenium\src\BatchTesting\PaymentTestSuite.xml"/>		
+	</suite-files>
+</suite>
